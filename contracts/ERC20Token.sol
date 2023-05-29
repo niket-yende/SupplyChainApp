@@ -4,7 +4,7 @@
 
 pragma solidity >=0.4.21 <0.6.0;
 
-import "./erc20Interface.sol";
+import "./ERC20Interface.sol";
 
 contract ERC20Token is ERC20Interface {
 
